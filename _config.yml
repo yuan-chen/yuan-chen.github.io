@@ -1,11 +1,10 @@
+show_excerpts: true
 title: Yuan Chen
 description: Daily posts, photos, and notes
-theme: minima
 url: "https://yuan-chen.github.io"
 baseurl: ""
 markdown: kramdown
+permalink: /:year/:month/:day/:title/
 
 header_pages:
   - about.md
-
-show_excerpts: true
