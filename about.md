@@ -1,16 +1,16 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Hi, I’m Yuan Chen.
-
-This is my personal website where I share xxx.
-
-You can write here about:
-- your background
-- your interests
-- your work
-- your hobbies
-- what this website is about
+<div class="page-card">
+  <h1>About</h1>
+  <p>Hello, I’m Yuan Chen.</p>
+  <p>
+    This is my personal website where I share xxx.
+  </p>
+  <p>
+    You can add your own introduction here later.
+  </p>
+</div>
