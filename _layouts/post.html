@@ -6,11 +6,19 @@ layout: default
   <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
   <h1 class="single-post-title">{{ page.title }}</h1>
 
-  {% if page.image %}
-    <img class="single-post-image" src="{{ page.image }}" alt="{{ page.title }}">
+  {% if page.cover %}
+    <img class="single-post-image" src="{{ page.cover }}" alt="{{ page.title }}">
   {% endif %}
 
   <div class="single-post-content">
     {{ content }}
   </div>
+
+  {% if page.photos %}
+    <div class="photo-grid">
+      {% for photo in page.photos %}
+        <img src="{{ photo }}" alt="Post photo">
+      {% endfor %}
+    </div>
+  {% endif %}
 </article>
