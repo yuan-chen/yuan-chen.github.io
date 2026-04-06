@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first post"
+title: "2026 Easter - Glamping"
 date: 2026-04-06 20:00:00 +0200
 cover: /assets/images/20260406_5.jpeg
 photos:
@@ -15,5 +15,3 @@ photos:
 Today I successfully created my GitHub website.
 
 This post has multiple photos, so now the layout uses a gallery grid instead of one very large image.
-
-I think this style is better for photo collections.
