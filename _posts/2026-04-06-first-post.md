@@ -10,4 +10,4 @@ Today I successfully created my GitHub website.
 
 From now on, I can write daily updates here like a personal blog.
 
-![P1](/assets/images/20260406_1.jpg)
+![P1](/assets/images/20260406_1.jpeg)
