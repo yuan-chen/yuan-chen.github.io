@@ -1,6 +1,6 @@
 show_excerpts: true
 title: Yuan Chen
-description: Daily posts, photos, and notes
+description: Moments
 url: "https://yuan-chen.github.io"
 baseurl: ""
 markdown: kramdown
